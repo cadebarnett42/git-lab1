@@ -43,3 +43,11 @@ Answer 9: On branch master
             (use "git checkout -- <file>..." to discard changes in working directory)
                 modified:   answers.md
           no changes added to commit (use "git add" and/or "git commit -a")
+        
+Answer 10: The changes made online were not reflected in the           local copy because the changes only affected the             master branch.
+
+Answer 11: An error is thrown because the online repository             has changes different than the local repository.
+
+Answer 12: Yes now the changes are reflected in my local                copy of README.md because I pulled the changes               made from the online master repository.
+
+Answer 13: .  ..  .git  .gitignore  README.md
